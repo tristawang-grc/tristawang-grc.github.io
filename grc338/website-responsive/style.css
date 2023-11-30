@@ -184,5 +184,6 @@ footer p {
 		grid-template-rows: repeat(3,1fr);
 		grid-column-gap:5em;
 	}
+	article{width:50%;}
 
 }
